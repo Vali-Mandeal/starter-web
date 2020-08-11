@@ -1,1 +1,3 @@
 file-to-be-ignored.txt
+*.log
+log/
